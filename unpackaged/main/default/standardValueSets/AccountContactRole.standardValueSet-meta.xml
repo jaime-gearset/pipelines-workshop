@@ -2,9 +2,9 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>conflictpipeline</fullName>
-        <default>true</default>
-        <label>conflictpipeline</label>
+        <fullName>conflicting</fullName>
+        <default>false</default>
+        <label>conflicting</label>
     </standardValue>
     <standardValue>
         <fullName>Decision Maker</fullName>
