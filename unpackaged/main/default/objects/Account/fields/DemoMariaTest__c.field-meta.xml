@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>DemoMariaTest__c</fullName>
+    <fullName>DemoMariaTest1__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>DemoMariaTest</label>
+    <label>DemoMariaTest1</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
